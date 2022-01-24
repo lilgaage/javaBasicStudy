@@ -1,0 +1,8 @@
+Lambda的参数和返回值
+    需求：使用数组存储多个Person对象
+         对数组中的Person对象使用Arrays的sort方法通过年龄进行升序排序
+
+    java.util.Comparator<T>接口，其中的抽象方法定义为
+        public abstract int compare(T 01, T 02);
+    当需要对一个对象数组进行排序时，Arrays.sort方法需要一个Comparator接口实例来指定排序的规则。
+    假设有一个Person类，含有String name 和int age两个成员变量
