@@ -1,0 +1,1 @@
+jdk提供了大量常用的函数式接口以丰富Lambda的典型使用场景，它们主要在java.util.function包中被提供
