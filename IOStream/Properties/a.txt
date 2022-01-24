@@ -1,0 +1,3 @@
+filename=a.txt
+length:20382890
+location Study\\src\\IOStream\\Properties\\a.txt

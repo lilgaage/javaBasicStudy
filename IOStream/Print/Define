@@ -1,0 +1,2 @@
+print和println这两个方法都来自于java.io.PrintStream类，
+该类能够方便地打印各种数据类型的值，是一种编辑的输出方式。
